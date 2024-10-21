@@ -1,0 +1,5 @@
+outs:
+- md5: f0d8384ea79ad5d58ea143b7000c1fb2
+  size: 137743
+  hash: md5
+  path: feature-table.qza

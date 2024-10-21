@@ -1,0 +1,5 @@
+outs:
+- md5: 6c6cf96d37bf92fa1e509d75fbaab192
+  size: 5100101
+  hash: md5
+  path: rooted-tree.qza

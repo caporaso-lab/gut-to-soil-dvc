@@ -1,0 +1,5 @@
+outs:
+- md5: a192ac1306a820d78f2fd0ef5ff69be1
+  size: 11242741
+  hash: md5
+  path: unweighted_unifrac.qza

@@ -1,0 +1,5 @@
+outs:
+- md5: 94be3cdd248eba950c90f233cb021d08
+  size: 501919
+  hash: md5
+  path: asv-seqs.qza

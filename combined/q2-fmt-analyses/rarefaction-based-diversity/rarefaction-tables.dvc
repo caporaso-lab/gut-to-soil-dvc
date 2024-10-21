@@ -1,0 +1,6 @@
+outs:
+- md5: b7f53d61d5ddff706859e308cd309369.dir
+  size: 269211476
+  nfiles: 101
+  hash: md5
+  path: rarefaction-tables

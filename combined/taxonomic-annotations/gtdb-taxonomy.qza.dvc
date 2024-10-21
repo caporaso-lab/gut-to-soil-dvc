@@ -1,0 +1,5 @@
+outs:
+- md5: a08c5347f085f55738da6a92222ff9af
+  size: 7484616
+  hash: md5
+  path: gtdb-taxonomy.qza

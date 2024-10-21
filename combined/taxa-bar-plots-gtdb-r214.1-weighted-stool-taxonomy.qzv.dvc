@@ -1,0 +1,5 @@
+outs:
+- md5: d75eeb52ee7e6de2d0b63d915ba12f62
+  size: 194583517
+  hash: md5
+  path: taxa-bar-plots-gtdb-r214.1-weighted-stool-taxonomy.qzv

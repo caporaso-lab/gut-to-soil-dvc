@@ -1,0 +1,5 @@
+outs:
+- md5: cbc05a3a6a9bbceb730c4ae60968beb3
+  size: 4241367
+  hash: md5
+  path: asv-table.qza

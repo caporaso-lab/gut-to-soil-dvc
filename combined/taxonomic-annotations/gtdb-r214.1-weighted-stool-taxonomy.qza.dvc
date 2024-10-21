@@ -1,0 +1,5 @@
+outs:
+- md5: 6d2b46394f74273d1b813b5a4cfc6d46
+  size: 7345332
+  hash: md5
+  path: gtdb-r214.1-weighted-stool-taxonomy.qza

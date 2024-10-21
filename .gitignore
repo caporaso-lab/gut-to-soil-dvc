@@ -1,0 +1,11 @@
+/sample-metadata.qzv
+/sample-metadata.tsv
+
+# QIIME 2 Results
+*.qza
+*.qzv
+
+# Other
+.DS_Store
+
+.dvc/config

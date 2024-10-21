@@ -1,0 +1,5 @@
+outs:
+- md5: 91701614d142f5fadae564dd50f2972d
+  size: 6902360
+  hash: md5
+  path: silva-taxonomy.qza
