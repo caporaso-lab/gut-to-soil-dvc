@@ -1,0 +1,6 @@
+outs:
+- md5: 948cee97b20acacad503d2128946a9c3.dir
+  size: 265036724
+  nfiles: 2
+  hash: md5
+  path: nano3

@@ -1,0 +1,6 @@
+outs:
+- md5: 4e4fba43e724cddd4c073768cfc969ed.dir
+  size: 2768031922
+  nfiles: 1
+  hash: md5
+  path: miseq1

@@ -1,0 +1,6 @@
+outs:
+- md5: 442373f4f8f2eb4092b0bc8642baa450.dir
+  size: 268177623
+  nfiles: 2
+  hash: md5
+  path: nano1

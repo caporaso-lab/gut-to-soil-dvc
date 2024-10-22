@@ -1,0 +1,6 @@
+outs:
+- md5: feb705c82ebc52d5e6d0d308c42be903.dir
+  size: 3593679515
+  nfiles: 2
+  hash: md5
+  path: miseq2
