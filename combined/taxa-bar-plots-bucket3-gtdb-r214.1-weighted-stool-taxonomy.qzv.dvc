@@ -1,0 +1,5 @@
+outs:
+- md5: b3bfc7c1504609507828d6e97d66884c
+  size: 3482742
+  hash: md5
+  path: taxa-bar-plots-bucket3-gtdb-r214.1-weighted-stool-taxonomy.qzv
